@@ -14,3 +14,7 @@ Steps
 10. In a home page we consider a contact us details such as a email id and contact number for information.
 11. i have to add sign out details to all login page when signout clicking then it comes into home page again.
 12. In a user registration form  consider a adhar card photo in jpg format and store it in database.
+
+SCREENSHOT files add all screenshots of pages which has been uploaded on github.
+Front end.zip :- adding all front end pages
+Back end.zip:- adding all back end details
